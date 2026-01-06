@@ -3,7 +3,7 @@
 **Effective Date:** 2026-01-06
 
 **1. Introduction**
-This application ("Marketing Data Fetcher") is a private tool created by lutu for internal use only. It is designed to retrieve advertising performance data from the Meta Marketing API.
+This application is a private tool created by lutu for internal use only. It is designed to retrieve advertising performance data from the Meta Marketing API.
 
 **2. Data Collection**
 This application accesses data from your Meta Ad Accounts (e.g., spend, impressions, clicks). We do not collect personal user information (PII) of your customers.
